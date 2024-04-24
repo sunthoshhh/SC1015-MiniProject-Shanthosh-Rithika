@@ -31,3 +31,11 @@ We will use the following machine learning models in our project:
 4. We were unable to make an accurate model and this could likely be due to the complex and subjective nature of people's fashion choices
 5. Another reason for the innacuracy could be due to inadequate feature represntation and inherent model limitations
 6. The use of deep learning algorithms or advanced feature engineering could help boost the accuracy of prediction.
+
+## References
+1.Bisola, A. (n.d.). Fashion dataset UK-US. Kaggle. Retrieved April 24, 2024, from https://www.kaggle.com/datasets/a23bisola/fashion-dataset-uk-us
+2. Displayr. (n.d.). Gradient Boosting: The coolest kid on the machine learning block. Retrieved April 24, 2024, from https://www.displayr.com/gradient-boosting-the-coolest-kid-on-the-machine-learning-block/
+3.IBM. (n.d.). Random Forest. Retrieved April 24, 2024, from https://www.ibm.com/topics/random-forest#:~:text=Random%20forest%20is%20a%20commonly,both%20classification%20and%20regression%20problems.
+4. scikit-learn. (n.d.). GradientBoostingClassifier. scikit-learn 1.2.1 documentation. Retrieved April 24, 2024, from https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+5. scikit-learn. (n.d.). RandomForestClassifier. scikit-learn 1.2.1 documentation. Retrieved April 24, 2024, from https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+6. scikit-learn. (n.d.). Support Vector Machines. scikit-learn 1.2.1 documentation. Retrieved April 24, 2024, from https://scikit-learn.org/stable/modules/svm.html
