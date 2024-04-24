@@ -28,6 +28,6 @@ We will use the following machine learning models in our project:
 1. Prediction accuracy for Random Forest was around 9%
 2. Prediction accuracy for Gradient Booster Machine was around 10%
 3. Predcition accuracy for Support Vector Machines was around 13%
-4. We were unable to make an accurate model and this could likely due to the complex and subjective nature of people's fashion choices
-5. It also could be due to inadequate feature represntation and inherent model limitations
+4. We were unable to make an accurate model and this could likely be due to the complex and subjective nature of people's fashion choices
+5. Another reason for the innacuracy could be due to inadequate feature represntation and inherent model limitations
 6. The use of deep learning algorithms or advanced feature engineering could help boost the accuracy of prediction.
